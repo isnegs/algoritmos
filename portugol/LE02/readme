@@ -1,0 +1,28 @@
+** Desvio Condicional Simples. **
+
+→ Tomada de decisão, impondo uma condição para a execução de uma tarefa.
+
+** Operadores Relacionais. **
+
+→ Verifica o estado de uma variável em relação a uma implicação (verdadeiro ou falso).
+
+= → igual a
+<> → diferente de
+> → maior que
+< → menor que
+>= → maior ou igual a
+<= → menor ou igual a
+
+** Desvio Condicional Composto. **
+
+→ Uso do senao para executar uma intrução se a condição der como falsa.
+
+** Desvio Condicional Encadeado. **
+
+→  Condições sucessivas, condições dentro de condições.
+
+** Operadores Lógicos **
+
+e → Dois ou mais relacionamentos lógicos de uma condição precisam ser verdadeiros.
+ou → Um dos relacionamentos lógicos de uma condição precisam ser verdadeiros.
+nao → Inverte o estado lógico de uma condição, verdadeiro = falso, falso = verdadeiro.
