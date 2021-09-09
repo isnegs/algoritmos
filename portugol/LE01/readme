@@ -1,1 +1,48 @@
+- **Conceitos.**
+    - **Raciocínio lógico.**
 
+        → Organização de pensamentos, de forma esquematizada, com
+        regras e critérios que serão transpostos para um computador através de um algoritmo.
+
+    - **Algoritmo.**
+
+        → Sequência de instruções ou operações, seguindo uma norma, para a obtenção de um resultado.
+
+    - **Pseudo-código.**
+
+        → Forma genérica de escrever um algortimo, utilizando uma linguagem simples.
+
+    - **Programação estruturada.**
+
+        → Paradigma em que blocos de códigos são interligados por mecanismos básicos.
+
+        - **Sequência** - Cadeia de processos de execução do programa.
+        - **Decisão** - Controle do fluxo de execução dos processos.
+        - **Iteração** - Possibilidade de repetição da execução de processos.
+    - **Entrada, processamento e saída.**
+        - **Entrada -** Captação e agrupamento de dados.
+        - **Processamento -** Tratamento e manipulação de dados.
+        - **Saída** - Apresentação do resultado de uma operação.
+- **Variáveis e Constantes.**
+
+    → Local onde os dados são armazenados no computador durante a execução do programa.
+
+    - **Variável** - O valor armazenado pode mudar com o tempo.
+    - **Constante** - O valor armazenado se mantém sempre o mesmo.
+- **Tipos de Dados.**
+    - **Inteiros -** Todos os números, positivos e negativos, não fracionários.
+    - **Reais -** Todos os números, positivos, negativos e fracionários.
+    - **Literais -** Sequência de caracteres, contendo letras, números ou símbolos especiais.
+    - **Lógicos -** Dados que representam o valor verdadeiro ou falso.
+- **Operadores Aritméticos.**
+    - **Adição - [ + ]**
+    - **Subtração - [ - ]**
+    - **Multiplicação - [ * ]**
+    - **Divisão - [ / ]**
+    - **Exponenciação - [ ^ ]**
+    - **Módulo - [ % ]**
+- **Odem de precedência.**
+    1. **( )**
+    2. **^**
+    3. ***  /**
+    4. **+ -**
